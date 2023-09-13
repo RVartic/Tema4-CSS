@@ -1,0 +1,18 @@
+.baraNav {
+    background-color: yellow;
+    height: 50px;
+}
+
+img {
+    width: 40px;
+    height: 30px;
+    vertical-align: -10px;
+}
+
+.menuItem {
+    display: inline;
+    margin-left: 20px;
+    vertical-align: -15px;
+    color: blue;
+    text-decoration: underline;
+}
