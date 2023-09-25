@@ -1,6 +1,12 @@
-.baraNav {
+nav {
     background-color: yellow;
     height: 50px;
+    align-items: center;
+    display: flex;
+}
+
+ul {
+    list-style: none;
 }
 
 img {
@@ -10,9 +16,8 @@ img {
 }
 
 .menuItem {
-    display: inline;
+    display: inline-block;
     margin-left: 20px;
-    vertical-align: -15px;
     color: blue;
     text-decoration: underline;
 }
